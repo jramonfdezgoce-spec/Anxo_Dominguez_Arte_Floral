@@ -20,6 +20,6 @@ Abre http://localhost:3002. Desde el móvil, con la misma wifi: `http://<IP-del-
 npm run build:pages
 ```
 
-Genera la web estática en `out/` para la dirección `https://<usuario>.github.io/anxo-dominguez-arte-floral/`. Ese contenido se sube a la rama `gh-pages`.
+Genera la web estática en `out/` para la dirección `https://jramonfdezgoce-spec.github.io/Anxo-Dominguez-Arte-Floral/`. Ese contenido se sube a la rama `gh-pages`.
 
 GitHub Pages no ejecuta servidor: en esa versión el formulario muestra el aviso de error con el teléfono. Para que las solicitudes lleguen por correo, publica la web en Vercel (usa `app/api/contacto` con Resend; copia `.env.example` a `.env.local` con tus claves) o conecta el formulario a un servicio externo como Formspree.
