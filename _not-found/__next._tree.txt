@@ -1,0 +1,4 @@
+:HL["/Anxo_Dominguez_Arte_Floral/_next/static/chunks/3y42p6lm6hngd.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"dFvVHF1yQQ40jO0qxtBAF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
