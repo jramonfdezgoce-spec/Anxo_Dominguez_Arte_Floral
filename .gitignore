@@ -41,3 +41,6 @@ yarn-error.log*
 next-env.d.ts
 
 !.env.example
+
+# Copia anidada creada por GitHub Desktop (no forma parte de la web)
+/Anxo_Dominguez_Arte_Floral/

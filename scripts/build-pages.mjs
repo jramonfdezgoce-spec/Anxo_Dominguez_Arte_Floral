@@ -4,7 +4,7 @@
 import { execSync } from "node:child_process";
 import { existsSync, renameSync, writeFileSync } from "node:fs";
 
-const repo = process.argv[2] ?? "Anxo-Dominguez-Arte-Floral";
+const repo = process.argv[2] ?? "Anxo_Dominguez_Arte_Floral";
 const env = { ...process.env, GITHUB_PAGES: "1", NEXT_PUBLIC_BASE_PATH: `/${repo}` };
 const moved = existsSync("app/api");
 if (moved) renameSync("app/api", ".api-apartada");
